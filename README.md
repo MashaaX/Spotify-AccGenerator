@@ -11,7 +11,7 @@
 - Using Randomed List
 
 ### How to Use?
-> Run (makesure you have interpreter installed & Internet Connection is available)
-> Type Username
-> Type Password
-> viola!
+- Run (makesure you have interpreter installed & Internet Connection is available)
+- Type Username
+- Type Password
+- viola!
